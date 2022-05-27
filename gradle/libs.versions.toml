@@ -1,8 +1,8 @@
 [versions]
-android = "7.0.4"
+android = "7.2.1"
 arrow = "1.1.2"
 arrowGradleConfig = "0.10.2"
-coroutines = "1.6.1"
+coroutines = "1.6.2"
 dokka = "1.6.21"
 gradlePublish = "0.21.0"
 javierscSemverGradlePlugin = "0.1.0-alpha.10"
